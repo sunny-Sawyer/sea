@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\2023\test_9_10_02\test_9_10_02\test.c(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test_9_10_02.vcxproj -> D:\code\2023\test_9_10_02\x64\Debug\test_9_10_02.exe
