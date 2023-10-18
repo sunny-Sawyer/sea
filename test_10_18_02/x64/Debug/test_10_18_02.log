@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\2023\test_10_18_02\test_10_18_02\test.c(9,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test_10_18_02.vcxproj -> D:\code\2023\test_10_18_02\x64\Debug\test_10_18_02.exe
