@@ -1,0 +1,9 @@
+﻿  game.c
+D:\code\2023\12_16\12_16\game.c(15,19): warning C4028: 形参 1 与声明不同
+D:\code\2023\12_16\12_16\game.c(34,15): warning C4028: 形参 1 与声明不同
+  test2.c
+D:\code\2023\12_16\12_16\test2.c(14,10): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\code\2023\12_16\12_16\test2.c(16,6): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\code\2023\12_16\12_16\test2.c(17,10): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+  正在生成代码...
+  12_16.vcxproj -> D:\code\2023\12_16\x64\Debug\12_16.exe
